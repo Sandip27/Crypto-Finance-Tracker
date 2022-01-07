@@ -4,7 +4,7 @@
 Current project status: Completed. ✅  
 ```
 
-This is an exercise react application to display and search on Cryptocurrency with an API:
+This is a React application to display and search on Cryptocurrency with an API:
   - Axios
   - CoinGecko API
   - Hooks
