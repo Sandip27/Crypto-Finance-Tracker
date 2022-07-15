@@ -1,15 +1,11 @@
-# ReactJS - Crypto-Finance-Tracker 🧑🏽‍💻
-
-```sh 
-Current project status: Completed. ✅  
-```
+# ReactJS - Crypto-Finance-Tracker 
 
 This is a React application to display and search on Cryptocurrency with an API:
   - Axios
   - CoinGecko API
   - Hooks
 
-# ~ Code Example: 👨🏿‍💻 
+# ~ Code Example: 
 
 As an example of the project, Axios JS (a popular, promise-based HTTP client that sports an easy-to-use API and can be used in both the browser and Node) was used to retrieve data from the CoinGecko API and filter through it:
 
